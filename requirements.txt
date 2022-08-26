@@ -1,3 +1,5 @@
+psycopg2
+django-heroku
 asgiref==3.3.1
 astroid==2.4.2
 autopep8==1.5.4
